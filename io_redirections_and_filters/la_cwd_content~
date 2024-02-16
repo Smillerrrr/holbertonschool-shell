@@ -1,0 +1,14 @@
+total 44
+-rwxr--r-- 1 root root  109 Feb 16 15:57 #7-file#
+-rw-r--r-- 1 root root    0 Feb 16 15:38 #iacta#
+drwxr-xr-x 2 root root 4096 Feb 16 16:07 .
+drwxr-xr-x 6 root root 4096 Feb 16 15:26 ..
+-rwxr--r-- 1 root root   28 Feb 16 15:27 4-lastlines
+-rwxr--r-- 1 root root   28 Feb 16 15:33 5-firstlines
+-rwxr--r-- 1 root root   40 Feb 16 15:50 6-third_line
+-rw-r--r-- 1 root root   11 Feb 16 15:35 6-third_line~
+-rwxr--r-- 1 root root  108 Feb 16 15:56 7-file
+-rwxr--r-- 1 root root   36 Feb 16 16:06 8-cwd_state
+-rw-r--r-- 1 root root   12 Feb 16 15:58 8-cwd_state~
+-rw-r--r-- 1 root root  801 Feb 16 15:38 iacta
+-rw-r--r-- 1 root root    0 Feb 16 16:07 la_cwd_content
